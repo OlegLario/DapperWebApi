@@ -11,5 +11,6 @@ namespace DapperWebApi.Models
         public string FName { get; set; }
         public string LName { get; set; }
         public bool IsActive { get; set; }
+        /////
     }
 }
